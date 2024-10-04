@@ -1,3 +1,3 @@
 ---
-redirect_to: https://app.useberry.com/preview/BUEzmgQPsfj9RX/
+redirect_to: https://app.useberry.com/t/BUEzmgQPsfj9RX/
 ---
